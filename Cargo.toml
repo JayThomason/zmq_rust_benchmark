@@ -1,5 +1,5 @@
 [package]
-name = "zmq_rust"
+name = "zmq_rust_benchmark"
 version = "0.1.0"
 authors = ["Jay Thomason <jay@covariant.ai>"]
 edition = "2018"
